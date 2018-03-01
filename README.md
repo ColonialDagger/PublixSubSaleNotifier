@@ -1,5 +1,6 @@
-# PublixSubSaleNotifier [![GitHub release](https://travis-ci.org/ColonialDagger/PublixSubSaleNotifier.svg?branch=master)](https://github.com/ColonialDagger/PublixSubSaleNotifier)
+# PublixSubSaleNotifier
 Notifies multiple users via SMS when Publix Chicken Tender subs are on sale.
+Runs on Python 2.7.12
 
 ## Dependencies
 ### Required
