@@ -20,3 +20,7 @@ $ curl https://raw.github.com/pypa/pip/master/contrib/get-pip.py | python
 1. Setup a Twilio account and phone number.
 2. Configure the bot in the bot.py file.
 3. Run the bot by running run.py with an active internet connection.
+
+## Licensing
+
+This project is licensed under the MIT License - see the LICENSE.txt file for details.
