@@ -1,10 +1,8 @@
 # PublixSubSaleNotifier [![GitHub release](https://travis-ci.org/ColonialDagger/PublixSubSaleNotifier.svg?branch=master)](https://github.com/ColonialDagger/PublixSubSaleNotifier)
 Notifies multiple users via SMS when Publix Chicken Tender subs are on sale.
 
----
-
 ## Dependencies
-#### Required
+### Required
 * BeautifulSoup4
 * time
 * requests
@@ -16,8 +14,6 @@ Notifies multiple users via SMS when Publix Chicken Tender subs are on sale.
 ```
 $ curl https://raw.github.com/pypa/pip/master/contrib/get-pip.py | python
 ```
-
---
 
 ## Getting Started
 To run the bot, run run.py with an active internet connection.
